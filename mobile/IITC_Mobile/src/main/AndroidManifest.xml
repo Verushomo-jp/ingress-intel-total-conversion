@@ -2,12 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.cradle.iitc_mobile"
     android:installLocation="auto"
-    android:versionCode="104"
-    android:versionName="0.26.0">
-
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="19"/>
+    >
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
